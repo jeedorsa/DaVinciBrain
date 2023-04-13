@@ -14,8 +14,7 @@ y papel usando algoritmos de clasificación.
 https://www.scielo.cl/pdf/infotec/v32n1/0718-0764-infotec-32-01-133.pdf
 
 3.Modelo predictivo de fuga de clientes utilizando minería de datos para una empresa de telecomunicaciones en Chile
-
-Modelo predictivo de fuga de clientes utilizando minería de datos para una empresa de telecomunicaciones en Chile
+(http://ve.scielo.org/scielo.php?script=sci_arttext&pid=S1316-48212014000300004)
 
 4.MODELO DE ESTIMACIÓN DE PROBABILIDAD DE COMPRA.
 
